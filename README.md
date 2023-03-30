@@ -3,7 +3,7 @@
 [![Actions Status](https://github.com/github/linguist/workflows/Run%20Tests/badge.svg)](https://github.com/github/linguist/actions)
 
 [issues]: https://github.com/github/linguist/issues
-[new-issue]: https://github.com/github/linguist/issues/new
+[new-issue]: https://github.it/github/linguist/issues/new
 
 This library is used on GitHub.com to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs.
 
