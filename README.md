@@ -9,7 +9,7 @@ This library is used on GitHub.com to detect blob languages, ignore binary or ve
 
 ## Documentation
 
-- [How Linguist works](/docs/how-linguist-works.md)
+- [How Linguist works]((https://en.wikipedia.org/wiki/Linguistics))
 - [Change Linguist's behaviour with overrides](/docs/overrides.md)
 - [Troubleshooting](/docs/troubleshooting.md)
 - [Contributing guidelines](CONTRIBUTING.md)
