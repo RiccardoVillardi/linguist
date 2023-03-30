@@ -1,4 +1,4 @@
-# Linguist ok
+# Linguist project
 
 [![Actions Status](https://github.com/github/linguist/workflows/Run%20Tests/badge.svg)](https://github.com/github/linguist/actions)
 
@@ -9,7 +9,7 @@ This library is used on GitHub.com to detect blob languages, ignore binary or ve
 
 ## Documentation
 
-https://en.wikipedia.org/wiki/Linguistics
+- [How Linguist works](/docs/how-linguist-works.md)
 - [Change Linguist's behaviour with overrides](/docs/overrides.md)
 - [Troubleshooting](/docs/troubleshooting.md)
 - [Contributing guidelines](CONTRIBUTING.md)
@@ -57,6 +57,7 @@ sudo apt-get install build-essential cmake pkg-config libicu-dev zlib1g-dev libc
 ### Application usage
 
 Linguist can be used in your application as follows:
+https://en.wikipedia.org/wiki/Linguistics
 
 ```ruby
 require 'rugged'
