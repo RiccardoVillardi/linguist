@@ -1,6 +1,6 @@
 # Linguist ok
 
-[![Actions Status](https://github.com/github/linguist/workflows/Run%20Tests/badgee.svg)](https://github.com/github/linguist/actions)
+[![Actions Status](https://github.com/github/linguist/workflows/Run%20Tests/badge.svg)](https://github.com/github/linguist/actions)
 
 [issues]: https://github.com/github/linguist/issues
 [new-issue]: https://github.com/github/linguist/issues/new
